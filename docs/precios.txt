@@ -1,0 +1,22 @@
+PRECIOS Y PAQUETES DE JP-VALENCIA
+
+1. Desarrollo Web
+   - Landing Page: 150 USD
+   - Sistema Web Básico: 300 USD
+   - Sistema Web Profesional: 600 USD
+   - Sistema Web Completo + App Móvil: 1000 USD
+
+2. Aplicaciones Móviles (Flutter)
+   - App Básica: 200 USD
+   - App Profesional: 400 USD
+   - App Completa con Offline y Sincronización: 700 USD
+
+3. Bases de Datos
+   - Diseño de base: 80 USD
+   - Optimización avanzada: 100 USD
+   - Migraciones automáticas: 60 USD
+
+4. Servicios por Hora (Soporte / Consultoría)
+   - 10 USD por hora
+
+*Los precios pueden variar según la complejidad del proyecto.*

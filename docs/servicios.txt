@@ -1,0 +1,30 @@
+SERVICIOS DE JP-VALENCIA
+
+1. Desarrollo Web
+   - Creación de sistemas web completos.
+   - Frontend con HTML, CSS, JavaScript, Vue, React.
+   - Backend con Laravel, Node.js o NestJS.
+   - Integración con APIs REST y JWT.
+   - Paneles administrativos, reportes y dashboards.
+
+2. Desarrollo Móvil
+   - Aplicaciones en Flutter para Android y iOS.
+   - Soporte para modo offline.
+   - Integración con Firebase, APIs y bases de datos.
+
+3. Bases de Datos
+   - Diseño de bases de datos MySQL, PostgreSQL y SQL Server.
+   - Optimización de consultas.
+   - Modelamiento y migraciones.
+   - Creación de reportes y análisis.
+
+4. Infraestructura y DevOps
+   - Configuración de servidores Linux.
+   - Despliegue de proyectos.
+   - Certificados SSL.
+   - Automatización de tareas.
+
+5. Consultoría y Soporte Técnico
+   - Asesoría para diseño de software.
+   - Optimización de sistemas existentes.
+   - Solución de problemas de rendimiento.
